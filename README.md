@@ -56,6 +56,9 @@ Lamentablemente, la idea de Hopper no fue muy aceptada por sus compañeros. La r
 
 Si algo evitaba que el lenguaje Fortran alcanzara mayor popularidad, era el hecho de que sólo funcionaba en los equipos desarrollados por IBM. Esto no era raro en la década de los 50’s; todos los compiladores y lenguajes de la época estaban limitados a su correspondiente tipo de computadora. Para solucionar esto, se funda en 1959 el **_Committee on Data Systems Languages_**, el cual fue guiado por Grace Hopper para alcanzar el objeto de desarrollar un lenguaje de programación estándar que pudiera ser utilizado en multitud de ordenadores. De sus esfuerzos resultó el lenguaje **COBOL** (_Lenguaje Común Orientado a Negocios_), que podía ser interpretado por el compilador COBOL de la máquina en cuestión.
 
+![Image](Cobol.png)
+_Committee on Data Systems Languages junto al código de "Hello World" escrito en COBOL._
+
 A COBOL le siguieron multitud de lenguajes de programación, la mayoría de ellos siguiendo el eslogan _“write once, run anywhere”_, que viene a significar que un código escrito en estos lenguajes puede ser ejecutado en cualquier computadora. Entre los lenguajes más importantes se pueden mencionar:
 
 1. 1958s: **ALGOL** (_Algorithmic Language_).
