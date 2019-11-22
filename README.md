@@ -14,6 +14,20 @@ La década de 1950 trajo consigo un sustituto a los delicados tubos de vacío: e
 
 Con el pasar de los años, las computadoras tomaron aun más terrenos. Seguían siendo usadas por las grandes universidades y gobiernos, pero también por todo tipo de compañías e incluso público general. Asimismo, el tamaño y portabilidad de esta tecnología mejoró al punto de ofrecernos laptops, smartphones y muchos otros artefactos multitareas.
 
+###El origen de la programación
+
+Las labores mecánicas siempre han sido duras. Por lo general, son tediosas, extensas y requiere de constante atención si no desea cometer un error en algún punto del proceso. No obstante, son un elemento constante en nuestras vidas. ¿Cómo podríamos asegurar la calidad de un producto o servicio sin un “recetario” o manual de instrucciones? Si se halla una solución eficaz a un problema, lo normal es recurrir a ella siempre que se pueda.
+
+Por lo anterior, la necesidad de máquinas programables precede incluso a la aparición de las computadoras. Como se mencionó con anterioridad, ya para 1801 se conocían las tarjetas perforadas gracias a los telares automáticos de **Joseph Marie Jacquard**. Estos nuevos telares facilitaban la complicada labor de tejer telas con patrones, dando como lugar la disminución de costo de aquellas ropas que lucían este tipo de diseño. Sin embargo, las primeras computadoras no utilizaron las tarjetas perforadas para programar, sino generalmente para almacenar datos.
+
+En las primeras décadas del siglo XX, si se deseaba programar una serie de pasos en una computadora, era necesario hacer uso de un panel de control compuesto de numerosos enchufes. Para activar ciertas partes de la máquina, se conectaban cables a estos enchufes para enviar una señal. Este tipo de tecnología era conocida como _Plugboard_ o tablero de conexiones.
+
+Desafortunadamente, este método requería modificaciones considerables al tablero de conexiones para correr cada programa. La tarea era tan ardua que pronto se empezaron a crear plugboards intercambiables, cada uno orientado a realizar una tarea diferente. Aun así, la tarea de programar estos tableros era bastante compleja, por lo que pronto se buscó una nueva solución.
+
+Entre la década de los 40’s y 50’s, se empezaron a desarrollar estudios que permitieron la creación de memorias electrónicas, lo cual llevo a las computadoras de la época a almacenar sus programas (y datos) en memorias internas. Estas ideas serían consolidadas en el **Modelo de Von Neumann**, una arquitectura de computadoras descrita por **John von Neumann** y que consta de una unidad de procesamiento, una unidad de control, una memoria, almacenamiento masivo externo y mecanismos de entrada y salida. La primera computadora en seguir este modelo fue construida en 1948 por la Universidad de Manchester, y tenía el apodo de **“Baby”**.
+
+Ante esta nueva tecnología, los ingenieros y científicos se plantearon una nueva pregunta: ¿cómo se cargaría los programas en estas nuevas computadoras? Curiosamente, la respuesta la encontraron en el pasado: las antiguas tarjetas perforadas de Jacquard. De esa forma, estas tarjetas empezaron a usarse para almacenar datos, programas e incluso resultados arrojados por la computadora. Asimismo, algunos ingenieros y programadores optaron por el panel de programación, que seguía una lógica semejante al tablero de conexiones, pero usando interruptores en vez de enchufes. Un buen ejemplo de esta tecnología es el **Altair 8800**, la primera computadora de hogar comercialmente exitosa.
+
 
 ### Markdown
 
