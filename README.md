@@ -5,12 +5,14 @@ La historia de la computación es bastante particular. A simple vista, se podrí
 Si bien es cierto que existen aparatos sumamente antiguos capaces de realizar operaciones matemáticas (tal es el caso del _“step reckonet”_ de Gottfried Leibniz o la pascalina de Blaise Pascal), los historiadores consideran la máquina analítica como la primera computadora de la historia, pese a que su inventor, **Charles Babbage**, no logró construir una versión funcional por las limitaciones tecnológicas de la época y algunos motivos políticos. La máquina analítica introduce por primera vez la idea de herramienta de propósitos generales, característica principal de toda computadora. Esto se lograba a través de instrucciones escritas en tarjetas perforadas, un recurso ideado por **Joseph Marie Jacquard** en el siglo XVII para sus telares.
 
 ![Image](Babbage.png)
+_Charles Babbage y su máquina analítica._
 
 El siguiente paso en la historia de la computación es realizado por **Herman Hollerith**, un inventor que desarrolló un tabulador electromagnético de tarjetas perforadas para ayudar en el censo estadounidense de 1890. Su máquina tabuladora mezclaba componentes tanto mecánicos como electrónicos para analizar tarjetas perforadas basadas en la lógica de Boole, la cual pasó a ser una constante en los futuros avances computacionales. 
 
 Durante los próximos años, el mundo vería la aparición de numerosas computadoras electro-mecánicas, cada una más poderosa (y grande) que la anterior. Sin duda, una de las más llamativas y reseñables es la **Harvard Mark I**, diseñada para ayudar a los aliados durante la Segunda Guerra Mundial, teniendo a su vez un papel vital dentro del Proyecto Manhattan. Funcionaba por medio de chasquidos de relés (cincuenta por segundo, para ser precisos), los cuales tendían a dañarse debido a su uso constante.
 
 ![Image](MarkI.png)
+_La computadora Harvard Mark I._
 
 Los inconvenientes de los relés llevaron a varios ingenieros a buscar una nueva alternativa, la cual fue encontrada en los tubos de vacío, piezas frágiles pero duraderas y rápidas. El primer uso a gran escala de este recurso fue la elaboración del **Colossus Mark I**, diseñada por el ingeniero **Tommy Flowers** en 1943 y que pasó a ser la primera computadora enteramente electrónica programable. Tres años después, **John Presper Eckert** y **John William Mauchly**, con ayuda de la Universidad de Pensilvania, crearon el proyecto **ENIAC** (Electronic Numerical Integrator And Computer), la primera computadora electrónica totalmente programable y de propósito general.
 
@@ -23,6 +25,9 @@ Con el pasar de los años, las computadoras tomaron aun más terrenos. Seguían 
 Las labores mecánicas siempre han sido duras. Por lo general, son tediosas, extensas y requiere de constante atención si no desea cometer un error en algún punto del proceso. No obstante, son un elemento constante en nuestras vidas. ¿Cómo podríamos asegurar la calidad de un producto o servicio sin un “recetario” o manual de instrucciones? Si se halla una solución eficaz a un problema, lo normal es recurrir a ella siempre que se pueda.
 
 Por lo anterior, la necesidad de máquinas programables precede incluso a la aparición de las computadoras. Como se mencionó con anterioridad, ya para 1801 se conocían las tarjetas perforadas gracias a los telares automáticos de **Joseph Marie Jacquard**. Estos nuevos telares facilitaban la complicada labor de tejer telas con patrones, dando como lugar la disminución de costo de aquellas ropas que lucían este tipo de diseño. Sin embargo, las primeras computadoras no utilizaron las tarjetas perforadas para programar, sino generalmente para almacenar datos.
+
+![Image](Jacquard.png)
+_Joseph Marie Jacquard y su telar automatizado por tarjetas perforadas._
 
 En las primeras décadas del siglo XX, si se deseaba programar una serie de pasos en una computadora, era necesario hacer uso de un panel de control compuesto de numerosos enchufes. Para activar ciertas partes de la máquina, se conectaban cables a estos enchufes para enviar una señal. Este tipo de tecnología era conocida como _Plugboard_ o tablero de conexiones.
 
