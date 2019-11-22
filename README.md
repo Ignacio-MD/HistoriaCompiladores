@@ -14,7 +14,7 @@ La década de 1950 trajo consigo un sustituto a los delicados tubos de vacío: e
 
 Con el pasar de los años, las computadoras tomaron aun más terrenos. Seguían siendo usadas por las grandes universidades y gobiernos, pero también por todo tipo de compañías e incluso público general. Asimismo, el tamaño y portabilidad de esta tecnología mejoró al punto de ofrecernos laptops, smartphones y muchos otros artefactos multitareas.
 
-## El origen de la programación
+### El origen de la programación
 
 Las labores mecánicas siempre han sido duras. Por lo general, son tediosas, extensas y requiere de constante atención si no desea cometer un error en algún punto del proceso. No obstante, son un elemento constante en nuestras vidas. ¿Cómo podríamos asegurar la calidad de un producto o servicio sin un “recetario” o manual de instrucciones? Si se halla una solución eficaz a un problema, lo normal es recurrir a ella siempre que se pueda.
 
