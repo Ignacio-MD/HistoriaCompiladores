@@ -61,50 +61,18 @@ _Committee on Data Systems Languages junto al código de "Hello World" escrito e
 
 A COBOL le siguieron multitud de lenguajes de programación, la mayoría de ellos siguiendo el eslogan _“write once, run anywhere”_, que viene a significar que un código escrito en estos lenguajes puede ser ejecutado en cualquier computadora. Entre los lenguajes más importantes se pueden mencionar:
 
-1. 1958s: **ALGOL** (_Algorithmic Language_).
-2. 1958: **LISP** (_LISt Processor_).
-3. 1964: **BASIC** (_Beginner's All-purpose Symbolic Instruction Code_).
-4. 1970: **Pascal** (nombrado en honor al matemático y filósofo francés Blaise Pascal).
-5. 1972: **C** (su nombre se debe a que comparte muchas características con el lenguaje B).
-6. 1972: **Smalltalk**.
-7. 1980: **Objetive-C** (originalmente llamado “C con Objetos”).
-8. 1985: **C++** (su nombre se debe a su autor quería extender el lenguaje C).
-9. 1987: **Perl** (originalmente llamado “Pearl”, pero el autor cambió el nombre cuando descubrió que ya había otro lenguaje con ese nombre).
-10. 1991: **Python** (nombrado en honor a los humoristas británicos Monty Python).
-11. 1995: **Ruby** (nombrado a manera de broma por su parecido con Perl).
-12. 1996: **Java** (presuntamente, su nombre deriva de un tipo de café).
-13. 2000: **C#** (nombre inspirado por la notación musical, siendo en este caso “do sostenido”).
-14. 2009: **Go** (también conocido como **Golang**).
-15. 2014: **Swift** (“rápido” o “ligero” en inglés).
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ignacio-MD/HistoriaCompiladores/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 1958s: **ALGOL** (_Algorithmic Language_).
+- 1958: **LISP** (_LISt Processor_).
+- 1964: **BASIC** (_Beginner's All-purpose Symbolic Instruction Code_).
+- 1970: **Pascal** (nombrado en honor al matemático y filósofo francés Blaise Pascal).
+- 1972: **C** (su nombre se debe a que comparte muchas características con el lenguaje B).
+- 1972: **Smalltalk**.
+- 1980: **Objetive-C** (originalmente llamado “C con Objetos”).
+- 1985: **C++** (su nombre se debe a su autor quería extender el lenguaje C).
+- 1987: **Perl** (originalmente llamado “Pearl”, pero el autor cambió el nombre cuando descubrió que ya había otro lenguaje con ese nombre).
+- 1991: **Python** (nombrado en honor a los humoristas británicos Monty Python).
+- 1995: **Ruby** (nombrado a manera de broma por su parecido con Perl).
+- 1996: **Java** (presuntamente, su nombre deriva de un tipo de café).
+- 2000: **C#** (nombre inspirado por la notación musical, siendo en este caso “do sostenido”).
+- 2009: **Go** (también conocido como **Golang**).
+- 2014: **Swift** (“rápido” o “ligero” en inglés).
