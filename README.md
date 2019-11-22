@@ -35,6 +35,9 @@ Desafortunadamente, este método requería modificaciones considerables al table
 
 Entre la década de los 40’s y 50’s, se empezaron a desarrollar estudios que permitieron la creación de memorias electrónicas, lo cual llevo a las computadoras de la época a almacenar sus programas (y datos) en memorias internas. Estas ideas serían consolidadas en el **Modelo de Von Neumann**, una arquitectura de computadoras descrita por **John von Neumann** y que consta de una unidad de procesamiento, una unidad de control, una memoria, almacenamiento masivo externo y mecanismos de entrada y salida. La primera computadora en seguir este modelo fue construida en 1948 por la Universidad de Manchester, y tenía el apodo de **“Baby”**.
 
+![Image](Neumann.png)
+_John von Neumann y su modelo._
+
 Ante esta nueva tecnología, los ingenieros y científicos se plantearon una nueva pregunta: ¿cómo se cargaría los programas en estas nuevas computadoras? Curiosamente, la respuesta la encontraron en el pasado: las antiguas tarjetas perforadas de Jacquard. De esa forma, estas tarjetas empezaron a usarse para almacenar datos, programas e incluso resultados arrojados por la computadora. Asimismo, algunos ingenieros y programadores optaron por el panel de programación, que seguía una lógica semejante al tablero de conexiones, pero usando interruptores en vez de enchufes. Un buen ejemplo de esta tecnología es el **Altair 8800**, la primera computadora de hogar comercialmente exitosa.
 
 ## La aparición de los compiladores y los lenguajes de programación
